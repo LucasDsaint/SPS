@@ -24,7 +24,7 @@ SECRET_KEY = 'c59t&jf1iq%+q^od(z4nvn=&pr#nc($!1_rk27#)&y(u0f8jxa'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 OSCAR_SHOP_NAME = 'FPS'
 # Application definition
